@@ -1,5 +1,5 @@
 ## Title
-### support Vector Machine Analysis
+### Support Vector Machine Analysis
 Support vector machine (SVM) is a type of supervised machine learning algorithm. Both SVM regression and SVM classification tasks are done in this assignment.
 The market historical [data](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set) of real estate valuation from Sindian Dist., New Taipei City, Taiwan are used for SVM regression analysis.
 The heart desease [dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) of the Cleveland is used for SVM classification analysis.
